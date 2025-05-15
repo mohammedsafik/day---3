@@ -4,5 +4,9 @@
 
 3)terraform apply
 
+
+4)terraform state list
+
+
 4)terraform destroy
 if needed to delete all components created by terraform.
